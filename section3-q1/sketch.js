@@ -4,7 +4,8 @@ let cycle = 100;
 let size = 50
 let increment = 1;
 function setup() {
-  createCanvas(200, 200);}
+  createCanvas(200, 200);
+}
 
 function draw() {
   background(160, 192, 255);
